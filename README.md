@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as **System Engineer at Infosys**
 
-- 🌱 I’m currently learning **Cloud Native**
-
 - 📫 How to reach me **pruthvis942@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
