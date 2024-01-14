@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi S</h1>
 <h3 align="center">I am a full stack .NET web application developer at Infosys, with a solid background in software development, support, maintenance, and cloud technologies. Adept in Agile methodologies, showcasing a demonstrable history of enhancing team efficiency.</h3>
 
-- 🔭 I’m currently working as **System Engineer at Infosys**
+- 🔭 I’m currently working as **Senior Systems Engineer at Infosys**
 
 - 📫 How to reach me **pruthvis942@gmail.com**
 
